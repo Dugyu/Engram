@@ -19,3 +19,7 @@ R:  Up
 F:  Down
 
 Space: Acceleration
+
+Mouse: Turn Around
+
+Esc: Exit Game
