@@ -7,9 +7,15 @@ A Unity Game Build for Windows Platform.
 Keystrokes:
 
 A:  Left
+
 D:  Right
+
 W:  Forward
+
 S:  Backward
+
 R:  Up
+
 F:  Down
+
 Space: Acceleration
